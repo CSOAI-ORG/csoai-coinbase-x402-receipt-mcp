@@ -1,2 +1,0 @@
-[console_scripts]
-meok-coinbase-x402-receipt-mcp = server:main
